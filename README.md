@@ -1,5 +1,3 @@
-![Mark Abu Khadra - Software Developer](images.jpeg)
-
 # Hi, I'm Mark 👋
 
 I'm a Computer Science student at Hamburg University
