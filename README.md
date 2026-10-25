@@ -1,3 +1,4 @@
+![Mark Abu Khadra - Software Developer](banner.png)
 
 # Hi, I'm Mark 👋
 
